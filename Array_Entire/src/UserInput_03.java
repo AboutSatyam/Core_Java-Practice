@@ -8,6 +8,7 @@ public class UserInput_03 {
             System.out.print("Enter The " + i + " Element : ");
             arr[i] = scanner.nextInt();
         }
+
         System.out.print(" The Entered Element Are : ");
         for (int elem : arr) {
             System.out.print(elem + " ");

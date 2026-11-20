@@ -5,5 +5,6 @@ public class ArrayDemo {
 //        for (int elem : arr) {
 //            System.out.println(elem);
 //        }
+
     }
 }
