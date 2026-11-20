@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array_Entire/Array_Entire.iml" filepath="$PROJECT_DIR$/Array_Entire/Array_Entire.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic_Java/Basic_Java.iml" filepath="$PROJECT_DIR$/Basic_Java/Basic_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core_Java-E.iml" filepath="$PROJECT_DIR$/Core_Java-E.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oops_Entire/Oops_Entire.iml" filepath="$PROJECT_DIR$/Oops_Entire/Oops_Entire.iml" />
     </modules>
   </component>
