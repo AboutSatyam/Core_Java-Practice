@@ -14,7 +14,6 @@ public class Array_05 {
         }
         double avg = (double) sum / arr.length;
         System.out.println("Sum :" + sum);
-
         System.out.println("Averge :" + avg);
     }
 }
