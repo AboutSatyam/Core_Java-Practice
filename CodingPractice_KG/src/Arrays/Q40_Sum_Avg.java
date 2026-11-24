@@ -9,7 +9,6 @@ public class Q40_Sum_Avg {
         int arrSize = scanner.nextInt();
         int[] arr = new int[arrSize];
         for (int elem : arr) {
-
         }
     }
 }
