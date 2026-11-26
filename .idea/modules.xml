@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_Entire/Array_Entire.iml" filepath="$PROJECT_DIR$/Array_Entire/Array_Entire.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basic_Java/Basic_Java.iml" filepath="$PROJECT_DIR$/Basic_Java/Basic_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodingPractice_KG/CodingPractice_KG.iml" filepath="$PROJECT_DIR$/CodingPractice_KG/CodingPractice_KG.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core_Java-E.iml" filepath="$PROJECT_DIR$/Core_Java-E.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum&amp;Annoation/Enum&amp;Annoation.iml" filepath="$PROJECT_DIR$/Enum&amp;Annoation/Enum&amp;Annoation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/File_Handling/File_Handling.iml" filepath="$PROJECT_DIR$/File_Handling/File_Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generices/Generices.iml" filepath="$PROJECT_DIR$/Generices/Generices.iml" />
