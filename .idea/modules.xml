@@ -14,7 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Generices/Generices.iml" filepath="$PROJECT_DIR$/Generices/Generices.iml" />
       <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Oops_Entire/Oops_Entire.iml" filepath="$PROJECT_DIR$/Oops_Entire/Oops_Entire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPs_Entire/OOPs_Entire.iml" filepath="$PROJECT_DIR$/OOPs_Entire/OOPs_Entire.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream_API/Stream_API.iml" filepath="$PROJECT_DIR$/Stream_API/Stream_API.iml" />
       <module fileurl="file://$PROJECT_DIR$/String_Entire/String_Entire.iml" filepath="$PROJECT_DIR$/String_Entire/String_Entire.iml" />
     </modules>
